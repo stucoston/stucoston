@@ -32,6 +32,19 @@ i {
 i:hover {
   color: black;
 }
+h1, h2, h3, h4, h5, h6 {
+  color: #333;
+  font-weight: 700;
+  word-wrap: break-word;
+  text-rendering: optimizeLegibility;
+}
+h1 {
+  font-size: 14vw;
+  font-weight: 700;
+  line-height: .9em;
+  letter-spacing: -.0125em;
+  margin-bottom: .5em;
+}
 h1 a hr {
   margin-top: -16px;
 }
