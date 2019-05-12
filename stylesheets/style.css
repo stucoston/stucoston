@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   overflow: initial;
-  font-family: Montserrat, sans-serif;
+  font-family: 'Ed Garamond', serif;
 }  
 img {
     width: 100%; 
@@ -18,7 +18,7 @@ img:hover {
   cursor: pointer;
 }
 p {
-  font-weight: 200;
+  font-weight: 400;
   font-size: 16px;
 }
 i {
@@ -766,7 +766,7 @@ a:hover hr {
   }
   
   .page-title {
-    font-weight: 400;
+    font-weight: 700;
   }
   
   .page-content {
@@ -803,7 +803,7 @@ a:hover hr {
     text-transform: uppercase;
     color: #0077cc;
     font-size: 24px;
-    font-weight: 600;
+    font-weight: 700;
     margin: 0 auto;
   }
   
@@ -1293,7 +1293,7 @@ a:hover hr {
   height: 100%;
 }
 .thin {
-  font-weight: 300;
+  font-weight: 400;
 }
 /* site-wide KeyFrames */  
 /* =============================== */
